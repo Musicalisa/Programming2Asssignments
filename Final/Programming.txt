@@ -1,0 +1,31 @@
+Answer the following short anser questions by typing your responses below each question.
+
+1.  Describe the key steps involved in creating a GUI in Java.
+
+To create a GUI in Java, the front end is first built by creating a frame, a panel, and widgets for the panel. Then these widgets are placed in specific locations on the
+panel, the panel is placed into the frame, and the frame and panel are made visible. Lastly, functionality is attached to the program.
+
+2.  Explain the difference between streams and buffers and give a real world example.
+
+Streams are flows of data that you can either read from or write to. They are typically connected to a data source or destination, such as a file.
+An example of a stream in java is a FileReader object. A buffer is a container for data of a specific primitive type. It is a finite sequence of elements.
+Its job is to store part of the streamed data and feed it to the output device. An example of a buffer in java is a BufferedReader.
+A stream can be compared to a stream, or flow of water and a buffer can be compared to a container that temporarily holds the water coming in from the stream.
+
+3.  Describe what exceptions are and what can be done with them in Java.
+
+An exception is an error or problem that is brought up during the execution of a program. Several situations can cause an exception, such as opening a non-existing file
+or a network connection problem. Since exceptions disrupt the normal flow of the program and can cause it to terminate, they need to be handled by either throwing the
+exceptions up to another class or by catching and dealing with them. Try-catch blocks can be used to handle exceptions.
+The try block contains program statements that might cause an exception to occur,while a catch block contains statements that handle said exception.
+
+4.  Describe waht the difference between intefaces and classes and how they are used.
+
+A class is a blueprint from which individual objects are created, while an interface is a collection of abstract methods that has the purpose of allowing the user to interact
+with the system. Main interfaces only have abstract method declarations with parameters and the return type. When a class “implements” an interface, it is as if it were signing
+a contract in which it agreed to use the specific methods declared in the interface. Only interfaces can be implemented, and only classes can implement other interfaces.
+When the “extends” keyword is used, a child interface can inherit the methods of the parent interface, and the programmer can then extend the inherited data.
+
+
+
+

@@ -1,0 +1,24 @@
+OOP.txt - This is the short answer/essay portion of the test.
+In the file, I want you to complete the following in separate paragraphs.
+
+a.  Describe the difference between object-oriented and procedural programming.
+
+Object-oriented programming focuses on creating classes and then creating objects based on those classes. It is an attempt to mimick
+real-world scenarios in the digital world. This type of programming often encapsulates data and methods into units
+so that the variables of one class are separate from variables of another class.
+Procedural programming, however, is far less abstact and requires step by step, concrete instructions to run programs.
+
+b. Describe the difference between a class and an object.
+
+A class is a blueprint for an object. It contains the instructions for its creation. An object is an instantiation of a class.
+
+c.  Describe what inheritance means in object-oriented programming.
+
+In object-oriented programming, inheritance is the mechanism by which a new class can be created from an existing class. The child class can inherit
+methods and properties from the parent class. For example, a Spider Monkey class can inherit all the properties and methods that are passed down from a Monkey class,
+since a Spider Monkey is a type of monkey.
+
+d.  Describe what polymorphism means in object-oriented programming.
+
+In object-oriented programming, polymorphism is the ability of an object to take on many forms. Creating both a default constructor and an overloaded
+constructor is an example of polymorphism because they are both different forms of the same constructor.
